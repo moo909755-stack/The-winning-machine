@@ -1,0 +1,14 @@
+crewai[all]
+langchain-openai
+cloudscraper
+beautifulsoup4
+pandas
+scikit-learn
+tavily-python
+yagmail
+python-telegram-bot
+streamlit
+schedule
+websockets
+asyncio
+python-dotenv
