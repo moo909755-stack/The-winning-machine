@@ -1,4 +1,4 @@
-crewai[all]
+crewai
 langchain-openai
 cloudscraper
 beautifulsoup4
@@ -9,6 +9,4 @@ yagmail
 python-telegram-bot
 streamlit
 schedule
-websockets
-asyncio
 python-dotenv
