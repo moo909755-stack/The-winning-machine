@@ -3,6 +3,6 @@ langchain-openai
 cloudscraper
 beautifulsoup4
 tavily-python
-python-telegram-bot
+yagmail
 python-dotenv
 schedule
