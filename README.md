@@ -1,2 +1,2 @@
-# The-winning-machine
+# happy-valley-racing
 Happy valley AI betting machine
